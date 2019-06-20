@@ -1,0 +1,116 @@
+@import url("//hello.myfonts.net/count/39a02b");
+
+@font-face {font-family: 'CentSchbookBTWGL4WXX-Italic';src: url('../fonts/39A02B_1_0.eot');src: url('../fonts/39A02B_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/39A02B_1_0.woff2') format('woff2'),url('../fonts/39A02B_1_0.woff') format('woff'),url('../fonts/39A02B_1_0.ttf') format('truetype');}
+@font-face {font-family: 'CentSchbookBTWGL4WXX-Bold';src: url('../fonts/39A02B_2_0.eot');src: url('../fonts/39A02B_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/39A02B_2_0.woff2') format('woff2'),url('../fonts/39A02B_2_0.woff') format('woff'),url('../fonts/39A02B_2_0.ttf') format('truetype');}
+@font-face {font-family: 'CentSchbookBTWGL4WXX-Roman';src: url('../fonts/39A02B_0_0.eot');src: url('../fonts/39A02B_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/39A02B_0_0.woff2') format('woff2'),url('../fonts/39A02B_0_0.woff') format('woff'),url('../fonts/39A02B_0_0.ttf') format('truetype');}
+
+
+html {
+  padding: 0;
+  margin: 0;
+  font-size: 62.5%;
+  color: hsl(0, 5%, 5%);
+  font-family: 'CentSchbookBTWGL4WXX-Roman', serif;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 1.9rem;
+  line-height: 1.6;
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+}
+
+a {
+  color: hsl(0, 5%, 5%);
+  text-decoration: none;
+}
+
+p {
+  margin: 0 0 3rem;
+}
+
+img {
+
+}
+
+#root {
+  padding: 2rem;
+}
+
+.content {
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+.title {
+  font-family: 'Arial', sans-serif;
+  margin: 0 0 3rem;
+  text-align: center;
+  font-weight: 300;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+}
+
+.video {
+  height: 0;
+  width: 100%;
+  padding-bottom: 56.25%;
+  position: relative;
+  margin: 0 0 3rem;
+}
+
+.video iframe {
+  border: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.links {
+  margin: 0 0 3rem;
+}
+
+.links a {
+  margin: 0 0.5rem;
+  display: block;
+  text-align: center;
+}
+
+.links a:hover {
+}
+
+.about {
+  max-width: 60rem;
+  margin: 0 auto 6rem;
+}
+
+.footer {
+  font-size: 1.4rem;
+  text-align: center;
+  color: hsl(0, 5%, 50%);
+}
+
+.footer a {
+  color: hsl(0, 5%, 50%);
+}
+
+@media only screen and (min-width: 768px) {
+
+}
+
+@media only screen and (min-width: 992px) {
+  .links a {
+    opacity: 0.8;
+  }
+
+  .links a:hover {
+    opacity: 1;
+  }
+}
