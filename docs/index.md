@@ -6,15 +6,15 @@ layout: home
 ---
 
 {% capture video %}
-{% include_relative video.md %}
+{% include_relative EDIT_THIS/video.md %}
 {% endcapture %}
 
 {% capture about %}
-{% include_relative about.md %}
+{% include_relative EDIT_THIS/about.md %}
 {% endcapture %}
 
 {% capture links %}
-{% include_relative links.md %}
+{% include_relative EDIT_THIS/links.md %}
 {% endcapture %}
 
 {% include template.html %}
