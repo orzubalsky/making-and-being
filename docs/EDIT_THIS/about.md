@@ -7,10 +7,10 @@ The chapters in this book are organized in the way that we tend to describe our 
 
 PART 0: WELCOME
 
-A Guide to Using This Book
+A Guide to Using This Book  
 Table of Contents  
-Acknowledgements
-Introduction 
+Acknowledgements  
+Introduction  
  
 PART 1: ENTRY POINTS / OVERVIEW OF THE FIELD
 Embodiment by Alta Starr
