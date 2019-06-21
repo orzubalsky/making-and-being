@@ -1,4 +1,4 @@
-[Read](http://bfamfaphd.com/wp-content/uploads/2017/01/makingandbeing-digitalPDF.pdf) an excerpt of _Making and Being_.
-[Listen](http://badatsports.com/?s=bfamfaphd) to a series of conversations we organized about _Making and Being_.
-[Pre-order](https://squareup.com/store/makingandbeing) the book _Making and Being_.
-[Contact](mailto:info@bfamfaphd.com?subject=MakingandBeing) co-authors Susan Jahoda and Caroline Woolard of BFAMFAPhD.
+[Read an excerpt of _Making and Being_](http://bfamfaphd.com/wp-content/uploads/2017/01/makingandbeing-digitalPDF.pdf).
+[Listen to a series of conversations we organized about _Making and Being_](http://badatsports.com/?s=bfamfaphd).
+[Pre-order the book _Making and Being_](https://squareup.com/store/makingandbeing).
+[Contact co-authors Susan Jahoda and Caroline Woolard of BFAMFAPhD](mailto:info@bfamfaphd.com?subject=MakingandBeing).
