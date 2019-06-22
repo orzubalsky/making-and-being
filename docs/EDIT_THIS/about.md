@@ -5,14 +5,13 @@ We wrote this book for those of you who want a holistic art education that inclu
 
 The chapters in this book are organized in the way that we tend to describe our approach in workshops with teachers and students. We begin with an overview of the fields that connect to our book (Part 1: Entry Points), and then talk about why we believe it is urgent to rethink approaches to undergraduate, graduate, and self-organized art education (Chapter 1: Why Now). From there, we build a sense of support with a cohort of learners (Chapter 2: Spaces of Learning and Chapter 3: Who Do You Honor?), and then we introduce our framework (Chapter 7: Lifecycle Phases and Framework). We close by asking people to imagine the future of art education. We then share the ways that we work together currently and the ways that we might get involved in a conversation together with you (Part 5: To Be Continued). Depending on the amount of time that you have as a student or a teacher, we suggest that you skip to the sections that feel most relevant to your context. 
 
-/**
-*PART 0: WELCOME*
+PART 0: WELCOME
  
  * A Guide to Using this Book
  * Table of Contents 
  * Acknowledgements  
  * Introduction  
- */
+
 
 
 
