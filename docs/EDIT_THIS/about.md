@@ -11,98 +11,39 @@ PART 0: WELCOME
  * Table of Contents 
  * Acknowledgements  
  * Introduction  
-
-
-
-
-
- 
-
-
  
 PART 1: ENTRY POINTS / OVERVIEW OF THE FIELD
-Embodiment by Alta Starr
-Art Education by Stacey Salazar
-	Political Economy by Leigh Claire La Berge
+
+* Embodiment by Alta Starr
+* Art Education by Stacey Salazar
+* Political Economy by Leigh Claire La Berge
  
 PART 2: SPACES OF LEARNING
-Chapter 1	Why Now
-Chapter 2	Spaces of Learning 
-Chapter 3	Who Do You Honor? 
-Chapter 4	Teacher/Facilitator Guides (The First 5 Weeks)
-Welcome New Student Worksheet (worksheet)
-			Naming Who We Invite Into Our Space of Learning (activity)
-			Naming Who We Invite Into Our Space of Learning (worksheet)
-			Asset Mapping / You Already Have What You Need (activity)
-		Asset Mapping / You Already Have What You Need (worksheet)					Individual Agreements (activity)
-			Individual Agreements (worksheet)
-			Group Agreements (activity)
-			Group Agreements (worksheet)
-Social-Emotional Intelligence Project Reflection (activity)			Social-Emotional Intelligence Project Reflection (worksheet)
-			Adapted 4’33” (practice)
-			Long Attunement (practice)
-			Short Attunement (practice)
-			Collective Clap (activity)
-			Create an object or a time-based project that will benefit the group.
-			Sensorium (activity)				
+* Chapter 1	Why Now
+* Chapter 2	Spaces of Learning 
+* Chapter 3	Who Do You Honor? 
+* Chapter 4	Teacher/Facilitator Guides 
+* Welcome New Student Worksheet (worksheet)			
 
 PART 3: CAPACITIES AND HISTORICAL CONSCIOUSNESS
-Chapter 5	Capacities
-Introduction to the Making and Being Rubric (activity)
-Capacities Vocabulary Development (activity)
-Identifying Capacities (activity)
-Capacities (worksheet)
-Chapter 6	How Are You in the World and How Is the World in You? 
-Historical Consciousness (worksheet)
+* Chapter 5	Capacities
+* Chapter 6	How Are You in the World and How Is the World in You? 
+
 PART 4: LIFECYCLE FRAMEWORK
-Chapter 7	Lifecycle Phases and Framework
-Lifecycle Phases Worksheet
-Chapter 8	Understanding the Lifecycle from Multiple Perspectives  
-Chapter 9        	Support
-FUTURE PROJECT WORKSHEET: SUPPORT
-PAST PROJECT WORKSHEET: SUPPORT
-Historical Consciousness WORKSHEET 
-The Heart Chant24 (practice)
-Mindful Moment
-Walking Meditation
-Asset Mapping
-Self-Reflection Assignment about Rank
-Joy
-Chapter 10	Source
-FUTURE PROJECT WORKSHEET: SOURCE
-PAST PROJECT WORKSHEET: SOURCE
-Historical Consciousness WORKSHEET 
-You Already Have the Materials You Need
-Asset Mapping / You Already Have What You Need
-Choose one material and research its journey from the site where it was extracted to the place where you obtained it. 
-Take apart a sculpture or an everyday object to make a new sculpture. 
-Make a drawing using materials sourced from the natural environment around you.
- 
-Chapter 11	Depart
-FUTURE PROJECT WORKSHEET: DEPART
-PAST PROJECT WORKSHEET: DEPART
-Historical Consciousness WORKSHEET
-				Every Project Deserves a Good Death 
-				Departure Event
-				Honorable Harvest18 
-				The Final Departure Dictates Work
-Chapter 12	Transfer
- 
- 
-Chapter 13	Labor
- 
-Chapter 14	Narrate
-Chapter 15	Encounter
- 
-Chapter 16	Tools
-Chapter 17	Copyright
-Chapter 18	Acquire
- 
+* Chapter 7	Lifecycle Phases and Framework
+* Chapter 8	Understanding the Lifecycle from Multiple Perspectives  
+* Chapter 9     Support
+* Chapter 10	Source
+* Chapter 11	Depart
+* Chapter 12	Transfer
+* Chapter 13	Labor
+* Chapter 14	Narrate
+* Chapter 15	Encounter
+* Chapter 16	Tools
+* Chapter 17	Copyright
+* Chapter 18	Acquire
  
 PART 5: TO BE CONTINUED
-Chapter 19	Imagining the Future
-Chapter 20	How We Work
- 
-Bibliography
-Colophon
+* Chapter 19	Imagining the Future
+* Chapter 20	How We Work
 
