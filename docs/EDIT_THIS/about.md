@@ -45,3 +45,11 @@ PART 5: TO BE CONTINUED
 * Chapter 19	Imagining the Future
 * Chapter 20	How We Work
 
+
+LINKS
+
+* [Read an Excerpt](http://bfamfaphd.com/wp-content/uploads/2017/01/makingandbeing-digitalPDF.pdf)
+* [Listen](http://badatsports.com/?s=bfamfaphd)
+* [Pre-Order](https://squareup.com/store/makingandbeing)
+[Contact](mailto:info@bfamfaphd.com?subject=MakingandBeing)
+
