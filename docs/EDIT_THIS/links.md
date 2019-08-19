@@ -1,4 +1,4 @@
-Interview with Linda Goode Bryant. 
+Interview with Linda Goode Bryant. This website will launch on Monday, October 3rd with activities, assignments, readings, and videos. Until then, enjoy these links.
 
 [Book Launch October 25](https://www.hauserwirth.com/stories/23276-making-conversations-art-pedagogy)
 
@@ -7,6 +7,8 @@ Interview with Linda Goode Bryant.
 [Pre-Order](https://store.pioneerworks.org/products/making-and-being)
 
 [Listen](http://badatsports.com/?s=bfamfaphd)
+
+[Play](http://bfamfaphd.com/cards/)
 
 [Watch](https://vimeo.com/bfamfaphd)
 
