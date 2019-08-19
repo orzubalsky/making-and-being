@@ -1,4 +1,4 @@
-[Interview with Linda Goode Bryant](https://vimeo.com/bfamfaphd)
+Interview with Linda Goode Bryant for Making and Being.
 [Read an Excerpt](http://bfamfaphd.com/wp-content/uploads/2017/01/makingandbeing-digitalPDF.pdf)
 [Pre-Order](https://store.pioneerworks.org/products/making-and-being)
 [Listen](http://badatsports.com/?s=bfamfaphd)
