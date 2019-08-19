@@ -16,3 +16,5 @@ Interview with Linda Goode Bryant for _Making and Being_. This website will laun
 
 [Contact](mailto:info@bfamfaphd.com?subject=MakingandBeing)
 
+[IG](https://www.instagram.com/makingandbeing/)
+
