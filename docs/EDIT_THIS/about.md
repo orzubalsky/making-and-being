@@ -24,7 +24,6 @@ PART 2: SPACES OF LEARNING
 * Chapter 2	Spaces of Learning 
 * Chapter 3	Who Do You Honor? 
 * Chapter 4	Teacher/Facilitator Guides 
-* Welcome New Student Worksheet (worksheet)			
 
 PART 3: CAPACITIES AND HISTORICAL CONSCIOUSNESS
 * Chapter 5	Capacities
