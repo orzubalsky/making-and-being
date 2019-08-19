@@ -1,10 +1,10 @@
 Interview with Linda Goode Bryant. 
 
+[Book Launch October 25](https://www.hauserwirth.com/stories/23276-making-conversations-art-pedagogy)
+
 [Read an Excerpt](http://bfamfaphd.com/wp-content/uploads/2017/01/makingandbeing-digitalPDF.pdf)
 
 [Pre-Order](https://store.pioneerworks.org/products/making-and-being)
-
-[Book Launch October 25](https://www.hauserwirth.com/stories/23276-making-conversations-art-pedagogy)
 
 [Listen](http://badatsports.com/?s=bfamfaphd)
 
