@@ -1,4 +1,4 @@
-Interview with Linda Goode Bryant for [_Making and Being_](https://store.pioneerworks.org/products/making-and-being). This website will launch on Monday, October 3rd with activities, assignments, readings, and videos. Until then, enjoy these links.
+Interview with Linda Goode Bryant for _Making and Being_. This website will launch on Monday, October 3rd with activities, assignments, readings, and videos. Until then, enjoy these links.
 
 [Book Launch October 25](https://www.hauserwirth.com/stories/23276-making-conversations-art-pedagogy)
 
