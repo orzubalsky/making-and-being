@@ -25,6 +25,17 @@ PART 2: SPACES OF LEARNING
 * Chapter 3	Who Do You Honor? 
 * Chapter 4	Teacher/Facilitator Guides 
 
+[Naming Who We Invite Into Our Space of Learning](http://bfamfaphd.com/wp-content/uploads/2019/08/Naming-Who-We-Invite-Into-Our-Space-of-Learning-draft-excerpt-Making-and-Being-Woolard-Jahoda.pdf)
+[Asset Mapping] (http://bfamfaphd.com/wp-content/uploads/2019/08/Asset-Mapping-draft-excerpt-from-Making-an-Being.pdf)
+[Individual Agreements](http://bfamfaphd.com/wp-content/uploads/2019/08/Asset-Mapping-draft-excerpt-from-Making-an-Being.pdf)
+[Group Agreements](http://bfamfaphd.com/wp-content/uploads/2019/08/Group-Agreements-draft-excerpt-from-Making-an-Being-Woolard-Jahoda.pdf)
+[Adapted 4’33”](http://bfamfaphd.com/wp-content/uploads/2019/08/433-draft-excerpt-from-Making-an-Being-Woolard-Jahoda.pdf)
+[Long and Short Attunements](http://bfamfaphd.com/wp-content/uploads/2019/08/Long-and-Short-Attunement-draft-excerpt-from-Making-an-Being-Woolard-Jahoda.pdf)
+[Collective Clap](http://bfamfaphd.com/wp-content/uploads/2019/08/Collective-Clap-draft-excerpt-from-Making-an-Being-Woolard-Jahoda.pdf)
+[Rubric for Self-Organized Learning](http://bfamfaphd.com/wp-content/uploads/2019/08/Rubric-for-Self-Organized-Learning-draft-excerpt-from-Making-an-Being-Woolard-Jahoda.pdf)
+[Social-Emotional Intelligence Project Reflection ](http://bfamfaphd.com/wp-content/uploads/2019/08/Social-Emotional-Intelligence-Reflection-draft-excerpt-from-Making-an-Being-Woolard-Jahoda.pdf)
+[Create an Object or a Time-Based Project That Will Benefit the Group ](http://bfamfaphd.com/wp-content/uploads/2019/08/What-does-this-classroom-want-excerpt-assignment-Making-and-Being-Woolard-Jahoda.pdf)
+
 PART 3: CAPACITIES AND HISTORICAL CONSCIOUSNESS
 * Chapter 5	Capacities
 * Chapter 6	How Are You in the World and How Is the World in You? 
