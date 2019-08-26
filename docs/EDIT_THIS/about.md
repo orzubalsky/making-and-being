@@ -26,7 +26,7 @@ PART 2: SPACES OF LEARNING
 * Chapter 4	Teacher/Facilitator Guides
     *[Naming Who We Invite Into Our Space of Learning](http://bfamfaphd.com/wp-content/uploads/2019/08/Naming-Who-We-Invite-Into-Our-Space-of-Learning-draft-excerpt-Making-and-Being-Woolard-Jahoda.pdf)
     -[Asset Mapping](http://bfamfaphd.com/wp-content/uploads/2019/08/Asset-Mapping-draft-excerpt-from-Making-an-Being.pdf)
-    -[Individual Agreements](http://bfamfaphd.com/wp-content/uploads/2019/08/Asset-Mapping-draft-excerpt-from-Making-an-Being.pdf)
+    -[Individual Agreements](http://bfamfaphd.com/wp-content/uploads/2019/08/Individual-Agreements-draft-excerpt-from-Making-an-Being-Woolard-Jahoda.pdf)
     -[Group Agreements](http://bfamfaphd.com/wp-content/uploads/2019/08/Group-Agreements-draft-excerpt-from-Making-an-Being-Woolard-Jahoda.pdf)
     -[Adapted 4’33”](http://bfamfaphd.com/wp-content/uploads/2019/08/433-draft-excerpt-from-Making-an-Being-Woolard-Jahoda.pdf)
     -[Long and Short Attunements](http://bfamfaphd.com/wp-content/uploads/2019/08/Long-and-Short-Attunement-draft-excerpt-from-Making-an-Being-Woolard-Jahoda.pdf)
