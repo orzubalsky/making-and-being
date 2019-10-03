@@ -12,7 +12,9 @@ Interview with Linda Goode Bryant for _Making and Being_. This website will laun
 
 [Watch](https://vimeo.com/bfamfaphd)
 
-[Webinars and Workshops](https://docs.google.com/forms/d/e/1FAIpQLScnQOXXKfHIMhmjesL78RqXhSmZVMj5rdw0hfmBi3dFJQJ8pQ/viewform?usp=sf_link)
+[Future Webinars and Workshops](https://docs.google.com/forms/d/e/1FAIpQLScnQOXXKfHIMhmjesL78RqXhSmZVMj5rdw0hfmBi3dFJQJ8pQ/viewform?usp=sf_link)
+
+[RSVP for January 25th Workshop](https://www.projectspace-efanyc.org/events/2020/1/25/bfamfaphd-making-and-being)
 
 [Contact](mailto:info@bfamfaphd.com?subject=MakingandBeing)
 
