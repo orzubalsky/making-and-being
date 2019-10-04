@@ -71,6 +71,6 @@ LINKS
 * [IG](https://www.instagram.com/makingandbeing/)
 
 
-* [Book Launch October 25](https://www.hauserwirth.com/stories/23276-making-conversations-art-pedagogy)
+* [Book Launch October 25](https://www.eventbrite.com/e/making-and-being-a-guide-to-embodiment-collaboration-and-circulation-in-the-visual-arts-tickets-69755603889)
 
 
