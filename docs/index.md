@@ -17,7 +17,7 @@ PART 0: WELCOME
  * Acknowledgements  
  * Introduction  
  
-[PART 1: ENTRY POINTS / OVERVIEW OF THE FIELD]({% link chapter-1.md %})
+PART 1: ENTRY POINTS / OVERVIEW OF THE FIELD
 
 * Embodiment by Alta Starr
 * Art Education by Stacey Salazar
