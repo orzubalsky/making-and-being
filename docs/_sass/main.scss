@@ -112,5 +112,31 @@ footer a {
   color: $color_footer;
 }
 
+$icon_width: 160px;
+.page-icon{
+
+  position: absolute;
+
+  width: $icon_width;
+  margin-left: -$icon_width;
+  height: 0.875 * $icon_width;
+  object-fit: cover;
+  object-position: center bottom;
+
+  // bump above h1  
+  // margin-top: calc(#{-0.1875 * $icon_width} - 1.5em - #{0.83em * 2});
+  margin-top: -0.1875 * $icon_width;
+}
+
+@media only screen and (max-width: 1095px) {
+  .page-icon {
+    position: relative;
+    margin-left: -0.1875 * $icon_width;
+    margin-top: 0rem;
+
+    text-align: center;
+  }
+}
+
 @media only screen and (min-width: 992px) {
 }

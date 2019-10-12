@@ -1,3 +1,7 @@
+---
+icon: null
+---
+
 # Chapter 1: Entry Points
 
 {% include vimeo.html videoId="192485777" %}
