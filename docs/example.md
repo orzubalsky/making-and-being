@@ -7,7 +7,7 @@ icon: labor
 # Chapter 1: Entry Points
 
 <!-- This embeds a Vimeo video from vimeo.com/192485777 -->
-{% include vimeo.html videoId="192485777" %}
+{% include vimeo.html videoId="192485777" caption="Lorem ipsum dolor sit amet" %}
 
 <!-- Examples of sub-headings -->
 ## Sub-heading
@@ -28,5 +28,5 @@ To link to this page from another page:
 
 [text to be linked]({% link example.md %})
 
-where example.md is the name of this file.
+where example.md is the name of this file, including the .md extension.
 -->

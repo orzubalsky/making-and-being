@@ -74,9 +74,8 @@ nav .home-link {
 .video {
   height: 0;
   width: 100%;
-  padding-bottom: 56.25%;
   position: relative;
-  margin: $section_margin;
+  padding-bottom: 56.25%;
 
   iframe {
     border: 0;
@@ -86,6 +85,16 @@ nav .home-link {
     top: 0;
     left: 0;
   }
+}
+
+.video-wrapper {
+    margin: $section_margin;
+}
+
+.video-caption {
+  font-size: 0.83em;
+  font-style: italic;
+  margin: 0.5em 0;
 }
 
 ul {
