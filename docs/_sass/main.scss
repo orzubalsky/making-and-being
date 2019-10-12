@@ -44,27 +44,32 @@ p {
   margin: 0 0 3rem;
 }
 
-img {
-
-}
-
 #root {
   padding: 2rem;
 }
 
-.content {
+nav .home-link {
+  
+}
+
+.content, nav {
   max-width: 80rem;
   margin: 0 auto;
 }
 
-.title {
-  font-family: $typeface_heading;
-  margin: $section_margin;
-  text-align: center;
-  font-weight: 300;
-  font-size: 2.5rem;
-  text-transform: uppercase;
-}
+
+// h1, h2, h3, h4, h5, h6 {
+//   font-family: $typeface_heading;
+//   margin: $section_margin;
+  
+// }
+
+// h1 {
+//   text-align: center;
+//   text-transform: uppercase;
+//   font-weight: 300;
+//   font-size: 2.5rem;
+// }
 
 .video {
   height: 0;
@@ -72,33 +77,29 @@ img {
   padding-bottom: 56.25%;
   position: relative;
   margin: $section_margin;
+
+  iframe {
+    border: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
 }
 
-.video iframe {
-  border: 0;
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  top: 0;
-  left: 0;
-}
-
-.links {
+ul {
   margin: $section_margin;
-}
 
-.links a {
-  margin: 0 0.5rem;
-  display: block;
-  text-align: center;
-}
-
-.links a:hover {
-}
-
-.about {
-  max-width: 60rem;
-  margin: 0 auto 6rem;
+  a {
+    margin: 0 0.5rem;
+    display: block;
+    opacity: 0.8;
+  
+    &:hover {
+      opacity: 1;
+    }
+  }
 }
 
 .footer {
@@ -111,16 +112,5 @@ img {
   color: $color_footer;
 }
 
-@media only screen and (min-width: 768px) {
-
-}
-
 @media only screen and (min-width: 992px) {
-  .links a {
-    opacity: 0.8;
-  }
-
-  .links a:hover {
-    opacity: 1;
-  }
 }
