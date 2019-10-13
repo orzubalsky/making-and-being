@@ -6,6 +6,8 @@ chapter_number: 20
 video: null
 pdf: Making and Being Chapter 20.pdf
 ---
+![Authors Johoda and Woolard at work](/assets/images/Jahoda Woolard Making and Being authors at work headshot SM.jpg)
+
 In 2014, we (Susan and Caroline), along with Vicky Virgin and Agnes Szanyi, as well as former BFAMFAPhD collective member Blair Murphy, published [_Artists Report Back_](http://bfamfaphd.com/wp-content/uploads/2016/05/BFAMFAPhD_ArtistsReportBack2014-10.pdf) to raise awareness about art student debt, to suggest how established artists and recent arts graduates might advocate for one another, and to propose cultural equity initiatives to recognize and strengthen solidarity art economies in the United States. This book grew out of that work.
 
 While the focus of our writing here will be about our experiences working in the collective BFAMFAPhD, collectivity has sustained our academic and artistic lives. For Susan, this has meant being an art editor for the journal _Rethinking Marxism_ from 1992–2014, co-founding a collective for art educators called the Pedagogy Group, and joining BFAMFAPhD in 2013; for Caroline, this has meant co-founding barter networks OurGoods.org and TradeSchool.coop from 2008–2016, making media for the economic justice collective SolidarityNYC from 2009–2012, and founding BFAMFAPhD in 2013. 
