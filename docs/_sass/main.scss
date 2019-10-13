@@ -159,15 +159,10 @@ $icon_width: 160px;
 
     & > li .part-name {
       text-transform: uppercase;
-      // line-height: 300%;
     }
 
     ol.chapters {
       list-style-type: disc;
-
-      & > li {
-        margin-bottom: 2rem;
-      }
     }
 
     ol.materials {
