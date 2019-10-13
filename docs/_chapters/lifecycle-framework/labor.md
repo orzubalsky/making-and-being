@@ -3,7 +3,9 @@ title: Labor
 icon: labor
 part_number: 4
 chapter_number: 13
-video: null
+video:
+  id: "192485673"
+  caption: "João Enxuto and Erica Love, 2016"
 pdf: Making and Being Chapter 13.pdf
 
 materials:
