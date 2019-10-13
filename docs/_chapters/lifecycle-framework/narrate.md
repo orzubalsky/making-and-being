@@ -3,7 +3,9 @@ title: Narrate
 icon: narrate
 part_number: 4
 chapter_number: 14
-video: null
+video:
+  id: "256248751"
+  caption: "Jon Hendricks, 2016"
 pdf: Making and Being Chapter 14.pdf
 
 materials:
