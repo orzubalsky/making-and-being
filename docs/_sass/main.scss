@@ -176,5 +176,30 @@ $icon_width: 160px;
   }
 }
 
+.chapter-navigation {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 3rem 0;
+  & > * {
+    flex-grow: 1;
+  }
+
+  .prev-chapter {
+    text-align: left;
+
+    &::before {
+      content: '‹ '
+    }
+  }
+
+  .next-chapter {
+    text-align: right;
+    &::after {
+      content: ' ›';
+    }
+  }
+}
+
 @media only screen and (min-width: 992px) {
 }

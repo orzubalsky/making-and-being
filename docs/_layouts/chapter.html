@@ -30,3 +30,16 @@ layout: page
   <h3>Materials</h3>
   {% include materials_list.html materials=page.materials %}
 {% endif %}
+
+{% assign chapters = site.chapters | where: 'index', false | sort: 'chapter_number' %}
+{% assign prev_chapter = chapters | where_exp: 'item', 'item.chapter_number < page.chapter_number' | last %}
+{% assign next_chapter = chapters | where_exp: 'item', 'item.chapter_number > page.chapter_number' | first %}
+
+<div class="chapter-navigation">
+  {% if prev_chapter %}
+    <a class="prev-chapter" href="{{ prev_chapter.url }}">{{ prev_chapter.title }}</a>
+  {% endif %}
+  {% if next_chapter %}
+    <a class="next-chapter" href="{{ next_chapter.url }}">{{ next_chapter.title }}</a>
+  {% endif %}
+</div>

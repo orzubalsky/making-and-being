@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1:	Why Now"
+title: "Why Now"
 icon: null
 part_number: 2
 chapter_number: 1
