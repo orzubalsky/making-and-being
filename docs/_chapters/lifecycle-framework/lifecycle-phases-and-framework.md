@@ -12,6 +12,8 @@ materials:
   - title: Lifecycle Phases (worksheet)
 ---
 
+![Lifecycle diagram](/assets/images/Topos_WaysofBeing_Diagrams_V6-05.jpg)
+
 Our framework relies upon an ecological metaphor to look at the entire “life” of a project, from the moment it is imagined to the moment it is discarded, recycled, or forgotten. We have identified ten components of each project’s lifecycle; we call these **phases**. _A phase is a recognizable stage in the development of a project’s lifecycle._ We encourage you to begin by focusing on one phase of the lifecycle of any project to explore a different way of thinking, working, and being. 
 
 ![support icon](/assets/icons/support.svg){: .inline-icon}Support
