@@ -1,0 +1,14 @@
+{% assign part_chapters = site.chapters | where: "part_number": include.part_number | where: "index": false | sort: 'chapter_number' %}
+
+<ol class="chapters">
+  {% for chapter in part_chapters %}
+  <li><a href="{{ chapter.url }}">
+      {% unless chapter.hide_chapter_number %} Chapter {{ chapter.chapter_number }}: {% endunless %}{{ chapter.title }}
+    </a>
+
+    {% if chapter.materials %}
+    {% include materials_list.html materials=chapter.materials %}
+    {% endif %}
+  </li>
+  {% endfor %}
+</ol>

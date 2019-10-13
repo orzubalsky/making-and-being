@@ -1,0 +1,11 @@
+<div class="table-of-contents">
+  <ol class="parts">
+    {% assign parts = site.chapters | where: "index": true | sort: 'part_number' %}
+    {% for part in parts %}
+      <li>
+      <span class="part-name">{% unless part.hide_part_number %} Part {{ part.part_number }}: {% endunless %}{{ part.title }}</span>
+        {% include chapter_list.html part_number=part.part_number %}
+      </li>
+    {% endfor %}
+  </ol>
+</div>

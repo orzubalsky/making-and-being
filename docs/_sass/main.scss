@@ -147,5 +147,34 @@ $icon_width: 160px;
   }
 }
 
+.download-text {
+  font-style: italic;
+}
+
+.table-of-contents {
+  ol.parts {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    & > li .part-name {
+      text-transform: uppercase;
+      // line-height: 300%;
+    }
+
+    ol.chapters {
+      list-style-type: disc;
+
+      & > li {
+        margin-bottom: 3rem;
+      }
+    }
+
+    ol.materials {
+      list-style-type: circle;
+    }
+  }
+}
+
 @media only screen and (min-width: 992px) {
 }

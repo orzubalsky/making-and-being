@@ -1,0 +1,11 @@
+<ol class="materials">
+  {% for material in include.materials %}
+  <li>
+    {% if material.url %}
+    <a href="{{ material.url }}" target="_blank">{{ material.title | markdownify | remove: '<p>' | remove: '</p>'}}</a>
+    {% else %}
+    {{ material.title }}
+    {% endif %}
+  </li>
+  {% endfor %}
+</ol>

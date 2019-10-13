@@ -1,0 +1,32 @@
+---
+layout: page
+---
+{% if page.video %}
+  {% include vimeo.html videoId=page.video.id caption=page.video.caption %}
+{% endif %}
+
+{{ content }}
+
+{% if page.pdf %}
+  {% if page.pdf.first %}
+    Download the
+    {% for pdf in page.pdf %}
+      {% if forloop.index == forloop.length and forloop.length > 1 %} and {% endif %}
+     <a href="/pdfs/{{ pdf.file }}">{{ pdf.name }}</a>{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    as PDFs. 
+  {% else %}
+    <span class="download-text" target="_blank">
+      {%if page.chapter_number >= 1 %}
+        Download the full chapter: <a href="/pdfs/{{ page.pdf }}">{{ page.title }}</a> as a PDF
+      {% else %}
+        Download <a href="/pdfs/{{ page.pdf }}">{{ page.title }}</a> as a PDF
+      {% endif %}
+    </span>
+  {% endif %}
+{% endif %}
+
+{% if page.materials %}
+  <h3>Materials</h3>
+  {% include materials_list.html materials=page.materials %}
+{% endif %}

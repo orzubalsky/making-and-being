@@ -32,6 +32,28 @@ plugins:
 titles_from_headings:
   strip_title: true
 
+collections:
+  chapters:
+    output: true
+    sort_by: chapter_number
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"
+      index: false
+      hide_chapter_number: false
+  -
+    scope:
+      path: "_chapters/*/index.md"
+      type: "chapters"
+    values:
+      index: true
+      layout: "part"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
