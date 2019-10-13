@@ -3,7 +3,9 @@ title: Encounter
 icon: encounter
 part_number: 4
 chapter_number: 15
-video: null
+video:
+  id: "256248955"
+  caption: "Sal Randolph, 2016"
 pdf: Making and Being Chapter 15.pdf
 
 materials:
