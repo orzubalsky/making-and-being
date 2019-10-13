@@ -130,6 +130,20 @@ footer a {
   color: $color_footer;
 }
 
+footer .footer-links {
+  list-style: none;
+  font-size: 0;
+
+  & > li {
+    display: inline-block;
+    font-size: 1.4rem;
+  }
+
+  li:not(:first-child) {
+    border-left: 1px solid $color_footer;
+  }
+}
+
 $icon_width: 160px;
 .page-icon{
 
