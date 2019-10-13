@@ -3,7 +3,9 @@ title: Acquire
 icon: acquire
 part_number: 4
 chapter_number: 18
-video: null
+video:
+  id: "192485528"
+  caption: "Dave McKenzie and Paul Ramirez Jonas, 2016"
 pdf: Making and Being Chapter 18.pdf
 
 materials:
