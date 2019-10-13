@@ -3,7 +3,9 @@ title: Transfer
 icon: transfer
 part_number: 4
 chapter_number: 12
-video: null
+video:
+  id: "256249169"
+  caption: "Danica Phelps, 2016"
 pdf: Making and Being Chapter 12.pdf
 
 materials:
