@@ -1,6 +1,6 @@
 ---
 title: Capacities
-icon: null
+icon: intention
 part_number: 3
 chapter_number: 5
 video: null
