@@ -28,7 +28,7 @@ materials:
   - title: "Who + Do  (activity)"
     url: https://drive.google.com/open?id=1Ae9Zfe7sZ-8ZCV8ffA-n3FP30lPU3IZv
   - title: "Threads of a Strong Community Fabric (worksheet)"
-    url: https://docs.google.com/document/d/1dYtwQGJzWQT4XOa4k7nZGTq1u08f8hD9hCUS5cMX3dw/edit?usp=sharing
+    url: https://docs.google.com/document/d/1dYtwQGJzWQT4XOa4k7nZGTq1u08f8hD9hCUS5cMX3dw/edit
   - title: "Make a Project that Includes the Labors of Others (assignment)"
     url: https://drive.google.com/open?id=1FRdpCMj2tI6fCkmgtbLxOJTn-shYP2Vt
 ---
