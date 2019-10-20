@@ -10,8 +10,11 @@ pdf: Making and Being Chapter 15.pdf
 
 materials:
   - title: "Future Project: Encounter (worksheet)"
-  - title: "Past Project: Encounter worksheet)"
+    url: https://docs.google.com/document/d/1bc711aNok0OWlm8Ki-cM-otjBJVsVH1GXVVkF2vjOE4/edit
+  - title: "Past Project: Encounter (worksheet)"
+    url: https://docs.google.com/document/d/1G5yiy4S_5r8HKs8zS-8iIxA-jgEb1Cfyk0yXhddbu5M/edit
   - title: "Historical Consciousness (worksheet)"
+    url: https://docs.google.com/document/d/1EPrKrMiBH_oMPvP9mScjhofr05jmE_HzqrS2VwGIWPA/edit
   - title: "Looking at People Encountering Art (activity)"
     url: https://drive.google.com/open?id=1FX5lG8ctfU1Uuevw0k2t3ID_rD1MqL-J
   - title: "Beholding a Work of Art (activity)"

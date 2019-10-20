@@ -7,8 +7,11 @@ video: null
 pdf: Making and Being Chapter 10.pdf
 materials:
   - title: "Future Project: Source (worksheet)"
+    url: https://docs.google.com/document/d/18U_ESS6kqhxLsTHNjcS2Itdj9Iaxko7p-frE1eB0sog/edit
   - title: "Past Project: Source (worksheet)"
+    url: https://docs.google.com/document/d/10yAWJgi-0zerfz8_jxJv4WsTpdCuhbFCFu1-Ypg-V68/edit
   - title: "Historical Consciousness (worksheet)"
+    url: https://docs.google.com/document/d/1zDMf4TgC7AybZVxqldjjhZiGZVHqGnSyW3LDak_ZEKg/edit
   - title: "Choose One Material and Research Its Journey from the Site Where It Was Extracted to the Place Where You Obtained It (assignment)"
     url: https://drive.google.com/open?id=1Njn-8dtTQyCVsUZBwuy3XdhNORpMOTvv
   - title: "Take Apart a Sculpture or an Everyday Object to Make a New Sculpture. (assignment)"

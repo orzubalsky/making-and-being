@@ -10,8 +10,11 @@ pdf: Making and Being Chapter 14.pdf
 
 materials:
   - title: "Future Project: Narrate (worksheet)"
+    url: https://docs.google.com/document/d/1TQigHjNH4kfd7MulqqVs5A0cv5o2JhU2TnN5K9x1U-U/edit
   - title: "Past Project: Narrate (worksheet)"
+    url: https://docs.google.com/document/d/1q5-3XfBXizxFNQ0q-DRsaNeg7isqqR_Zc3oIqlG7mAM/edit
   - title: "Historical Consciousness (worksheet)"
+    url: https://docs.google.com/document/d/1uYaTPhu2StUOVZ7tecQCOuPhrB51tW2ZysJFd3GfRXk/edit
   - title: "Form for Describing and Analyzing Projects in Critique (worksheet)"
   - title: "Formats for Engaging with My Work / Critique Menu (worksheet)"
   - title: "Discussion Wall (activity)"

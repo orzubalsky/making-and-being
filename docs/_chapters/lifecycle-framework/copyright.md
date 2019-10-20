@@ -8,8 +8,11 @@ pdf: Making and Being Chapter 17.pdf
 
 materials:
   - title: "Future Project: Copyright (worksheet)"
+    url: https://docs.google.com/document/d/1toezmKujPE3iRK0o5zrzjtnqKMAcVDatiJIz7NHAWRs/edit
   - title: "Past Project: Copyright (worksheet)"
+    url: https://docs.google.com/document/d/1B7AxJWUte21PBNlgUFKbMQP4JeY6nuBBoDejRzUl3LA/edit
   - title: "Historical Consciousness (worksheet)"
+    url: https://docs.google.com/document/d/1FEpnVPejWAuGiNMnZxdNmfMcZ2KPSGcWuhRPzcLPM3Y/edit
   - title: "Creative Commons Discussion (activity)"
     url: https://drive.google.com/open?id=1IJgHTdV8Lnj5mghXknhaHqeMiPCb2VVh
   - title: "Give a Prior Work a Creative Commons License That Is Aligned with Your Intentions for the Project (assignment)"

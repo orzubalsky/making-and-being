@@ -8,8 +8,11 @@ pdf: Making and Being Chapter 16.pdf
 
 materials:
   - title: "Future Project: Tools (worksheet)"
+    url: https://docs.google.com/document/d/1wGFXC88fGc_f0K9maRLxIp5DUXTMbFyk1641jqVHM4g/edit
   - title: "Past Project: Tools (worksheet)"
+    url: https://docs.google.com/document/d/1ISKT22PA016kNXsajEoMaMZikLO-inOeL0FlIPrQmyQ/edit
   - title: "Historical Consciousness (worksheet)"
+    url: https://docs.google.com/document/d/1xB_BUoZIUIhN5KeZ8OeT-JGFxBQ1DXzVqjwsnqbWNzM/edit
   - title: "Imagine That You’ve Just Graduated (assignment)"
     url: https://drive.google.com/open?id=1TsvNi5HvdQL5rITHCBCjevNTMBuo8GYl
   - title: "Start a Tool Library (assignment)"

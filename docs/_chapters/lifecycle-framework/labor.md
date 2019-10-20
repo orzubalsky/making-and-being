@@ -10,8 +10,11 @@ pdf: Making and Being Chapter 13.pdf
 
 materials:
   - title: "Future Project: Labor (worksheet)"
+    url: https://docs.google.com/document/d/1dIfCPGpFXFYVoG68fvWVsfDzBcMTEfabyg0K1XptJlA/edit
   - title: "Past Project: Labor (worksheet)"
+    url: https://docs.google.com/document/d/1HBdncKFz3eTbQbSWDGBgTm9fJZH56uYrw68E11f0WHA/edit
   - title: "Historical Consciousness (worksheet)"
+    url: https://docs.google.com/document/d/1JSaFdRfwJ54rTkW5yRq1LNdKu29MvqahoBo-EqoR4jc/edit
   - title: "Aqueous Event (activity)"
     url: https://drive.google.com/open?id=14hTg16z-ro8YQPRSN4IPNVbD75H-UEB8
   - title: "Group Leadership Portrait (activity)"

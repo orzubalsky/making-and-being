@@ -10,11 +10,15 @@ pdf: Making and Being Chapter 12.pdf
 
 materials:
   - title: "Future Project: Transfer (worksheet)"
+    url: https://docs.google.com/document/d/1obfV4pUbSdF9vLSdv8nLcL8RYawnmqmLh-NY4IScUZY/edit
   - title: "Past Project: Transfer (worksheet)"
+    url: https://docs.google.com/document/d/1_G33m-aSw6GlPvMbJdFt2Rz4uNV5trOia2r2bUlrrQs/edit
   - title: "Historical Consciousness (worksheet)"
+    url: https://docs.google.com/document/d/175o0hCcD7oNjRTiNm3ZCy_AyU4XkP2yBPIT6SvdXRRc/edit
   - title: "Standard Deviation Activity (activity)"
     url: https://drive.google.com/open?id=1DaE22HFoB0naD8PZ0Ob_WVIj1_LTiAad
   - title: "Basic Project Budget (worksheet)"
+    url: https://docs.google.com/document/d/1xL0feZaAb7MY4hWnvnDRzYl0aBbp0GV_1YGiFpUkI2I/edit
   - title: "Community Economies Budget (activity)"
     url: https://drive.google.com/open?id=1Q5zYdJg_qois1pDvPG31eeytdbT4oVXB
   - title: "Make a Barter Agreement (activity)"

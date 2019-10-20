@@ -10,8 +10,11 @@ pdf: Making and Being Chapter 18.pdf
 
 materials:
   - title: "Future Project: Acquire (worksheet)"
+    url: https://docs.google.com/document/d/1-wOFNojuzLppAi-2Rf73l6i-1LrLYdGL7cxH5eqDCuY/edit
   - title: "Past Project: Acquire (worksheet)"
+    url: https://docs.google.com/document/d/1iv5GPaDcP7F6pV8sy73_wGyWtg4vH09UGF6PLWUXgkc/edit
   - title: "Historical Consciousness (worksheet)"
+    url: https://docs.google.com/document/d/1hvDDA2bJA16Hp5MHhBSof_qu1XvFojD9S_uK-sauhIk/edit
   - title: "The Things We Steward (activity)"
     url: https://drive.google.com/open?id=17sp8xUHHsWR2I2oLHOqGuvhPnntRoCEQ
   - title: "Acquisition Agreement (activity)"

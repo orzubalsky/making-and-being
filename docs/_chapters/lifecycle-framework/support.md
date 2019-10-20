@@ -9,8 +9,11 @@ video:
 pdf: Making and Being Chapter 9.pdf
 materials:
   - title: "Future Project: Support (worksheet)"
+    url: https://docs.google.com/document/d/1sgNvhuxDDRWj-or8qTeJFWcCW-19OtqDci49TwtWsig/edit
   - title: "Past Project: Support (worksheet)"
+    url: https://docs.google.com/document/d/14H7QgtmqZFbE6bJNpRF8OadDtzQaAgVPLhNtk9rdI3U/edit
   - title: "Historical Consciousness (worksheet)"
+    url: https://docs.google.com/document/d/1qSDcCRyacd1gvifKjBeRIt1dYIvj2u7IaXkvwxpxnYE/edit
   - title: "Intergroup Dialog (activity)"
     url: https://drive.google.com/open?id=1Btk4qm6deb2QL9VhEtbIlbIVthipyX5E
   - title: "The Heart Chant (practice)"

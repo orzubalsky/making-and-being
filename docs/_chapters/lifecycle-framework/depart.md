@@ -8,8 +8,11 @@ pdf: Making and Being Chapter 11.pdf
 
 materials:
   - title: "Future Project: Depart (worksheet)"
+    url: https://docs.google.com/document/d/1obfV4pUbSdF9vLSdv8nLcL8RYawnmqmLh-NY4IScUZY/edit
   - title: "Past Project: Depart (worksheet)"
+    url: https://docs.google.com/document/d/1vF6-aBSi53CuT85V4xbc76buJKxJOs7YC-j5wVK-Oio/edit
   - title: "Historical Consciousness (worksheet)"
+    url: https://docs.google.com/document/d/1phUeEyzztkkMBu1qv-pPBP2kJMiRc7F2iWG8FEXKYWg/edit
   - title: "Every Project Deserves a Good Death (activity)"
     url: https://drive.google.com/open?id=1aAmoCZoMEw2lnteCeHUWmYF7fpvmb2WO
   - title: "Departure Event (activity)"

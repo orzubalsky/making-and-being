@@ -8,21 +8,24 @@ pdf: Making and Being Chapter 4.pdf
 
 materials:
   - title: "Naming Who We Invite Into Our Space of Learning (worksheet)"
-    url: https://docs.google.com/document/d/1vgE-a9ek9u-rBIwwGJejGeoWJmp6Z14R1TyQTfHzz-o/edit
+    url: https://docs.google.com/document/d/1vgE-a9ek9u-rBIwwGJejGeoWJmp6Z14R1TyQTfHzz-o/edit?usp=sharing
   - title: "Alternative Version of You Already Have What You Need (activity)"
     url: https://drive.google.com/file/d/1_A4_GkjyJW4wWDdQ1BCppgcMXUTR_oRM/view?usp=sharing
   - title: "Asset Mapping / You Already Have What You Need (worksheet)"
-    url: https://docs.google.com/document/d/1EFmUnPebAMdEjOsABxGaitq920ZdDYopQbQ3us2T4pc/edit
+    url: https://docs.google.com/document/d/1EFmUnPebAMdEjOsABxGaitq920ZdDYopQbQ3us2T4pc/edit?usp=sharing
   - title: "Welcome New Student (worksheet)"
-    url: https://docs.google.com/document/d/1_suXp08ebGAwQ7doPWmUFnyEI-JbXS-pKaIjEbY7sAk/edit#
   - title: "Introduction to the Making and Being Rubric (activity)"
     url: https://drive.google.com/file/d/1_BADUD0to8NRa1jm4CqvMuby8hIHVV_L/view?usp=sharing
   - title: Individual Agreements (activity)
   - title: Individual Agreements (worksheet)
+    url: https://docs.google.com/document/d/1oOYDFpqKklp5a2Wotv8cXdgL4AWtrxeS_9E2_KiL-X8/edit?usp=sharing
   - title: Group Agreements (activity)
   - title: Group Agreements (worksheet)
+    url: https://docs.google.com/document/d/1LYaKhvmVBvVlpJX_18jTeTst0h6qAJgf-xTnZuv0HB0/edit
   - title: Social-Emotional Intelligence Project Reflection (activity)	
+    url: https://docs.google.com/document/d/1QQPsT2sODaS6gCBwnxmyIvHe4RTpSAFVdM37QtAfsl4/edit
   - title: Social-Emotional Intelligence Project Reflection (worksheet)
+    url: https://docs.google.com/document/d/1QQPsT2sODaS6gCBwnxmyIvHe4RTpSAFVdM37QtAfsl4/edit
   - title: "Adapted 4′33″ (practice)"
     url: https://drive.google.com/file/d/1PtEiopKvmc-k3k6JIzgAw0bFKG6QcNzq/view?usp=sharing
   - title: Long Attunement (practice)
