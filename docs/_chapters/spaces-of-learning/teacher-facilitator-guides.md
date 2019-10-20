@@ -14,12 +14,11 @@ materials:
   - title: "Asset Mapping / You Already Have What You Need (worksheet)"
     url: https://docs.google.com/document/d/1EFmUnPebAMdEjOsABxGaitq920ZdDYopQbQ3us2T4pc/edit?usp=sharing
   - title: "Welcome New Student (worksheet)"
+    url: https://docs.google.com/document/d/1-Wy5YDuuf5hyd25c2lVAuoF5pcyPV8okj6_lBwYom_g/edit?usp=sharing
   - title: "Introduction to the Making and Being Rubric (activity)"
     url: https://drive.google.com/file/d/1_BADUD0to8NRa1jm4CqvMuby8hIHVV_L/view?usp=sharing
-  - title: Individual Agreements (activity)
   - title: Individual Agreements (worksheet)
     url: https://docs.google.com/document/d/1oOYDFpqKklp5a2Wotv8cXdgL4AWtrxeS_9E2_KiL-X8/edit?usp=sharing
-  - title: Group Agreements (activity)
   - title: Group Agreements (worksheet)
     url: https://docs.google.com/document/d/1LYaKhvmVBvVlpJX_18jTeTst0h6qAJgf-xTnZuv0HB0/edit
   - title: Social-Emotional Intelligence Project Reflection (activity)	

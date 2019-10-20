@@ -16,7 +16,9 @@ materials:
   - title: "Historical Consciousness (worksheet)"
     url: https://docs.google.com/document/d/1uYaTPhu2StUOVZ7tecQCOuPhrB51tW2ZysJFd3GfRXk/edit
   - title: "Form for Describing and Analyzing Projects in Critique (worksheet)"
+    url: https://docs.google.com/document/d/1jzqXCq6n90BqocVj6-C6eiv24yd3kHi7Q3gS8syS0B0/edit?usp=sharing
   - title: "Formats for Engaging with My Work / Critique Menu (worksheet)"
+    url: https://docs.google.com/document/d/1YhFSCDd2XbwqKilMimBLUU1AgCc-qiPlJzKxqAXYTIA/edit?usp=sharing
   - title: "Discussion Wall (activity)"
     url: https://drive.google.com/open?id=1fkydKGdv98_Lz4Dm1FyupCRQ1AOwi2kO
   - title: "Critique Activity: This work was made by everyone. (activity)"
@@ -28,6 +30,7 @@ materials:
   - title: "Media Training / Talking Points: Meeting People _Where_ They Are  (activity)"
     url: https://drive.google.com/open?id=1mdtHSowVXmMbmeKrpRQ8UVVHD_5vueIx
   - title: "Artist Statement (worksheet)"
+    url: https://docs.google.com/document/d/1BPxT6-D2mSm-BnQLC6GOcokAbF6hPcVybL8i_UiQg6Q/edit?usp=sharing
   - title: "Audre Lorde’s Questionnaire to Oneself (activity)"
     url: https://drive.google.com/open?id=1_bFj-ofHdMWU24bV0gbhVd-mSidZVcIF
   - title: "Make a Project to Address a Former Silence (assignment)"
