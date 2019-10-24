@@ -3,7 +3,9 @@ title: Capacities
 icon: intention
 part_number: 3
 chapter_number: 5
-video: null
+video:
+  id: "193419337"
+  caption: "W.A.G.E, 2016"
 pdf: Making and Being Chapter 5.pdf
 
 materials:
