@@ -1,5 +1,5 @@
 ---
-title: "Cultivating the Self: Embodied Transformation for Artists by Alta Starr"
+title: "Cultivating the Self: Embodied Transformation for Artists - by Alta Starr"
 icon: null
 part_number: 1
 chapter_number: -2

@@ -1,6 +1,5 @@
 ---
-title: "Studio Art-and-Design in Higher Education:  Contemporary Considerations and Historical 
-Precedents"
+title: "Studio Art-and-Design in Higher Education - by Stacey Salazar"
 icon: null
 part_number: 1
 chapter_number: -1
