@@ -3,7 +3,9 @@ title: Imaging the Future
 icon: null
 part_number: 5
 chapter_number: 19
-video: null
+video:
+  id: "256248523"
+  caption: "Adam Simon, 2016"
 pdf: Making and Being Chapter 19.pdf
 ---
 It’s the year 2029. Rather than getting a white-walled studio space, the Congress of Solidarity Art Economists asks you to select the kind of space that supports your practice. What space will you choose?

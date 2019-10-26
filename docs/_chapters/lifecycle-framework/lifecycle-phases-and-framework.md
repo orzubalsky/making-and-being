@@ -3,7 +3,9 @@ title: Lifecycle Phases and Framework
 icon: null
 part_number: 4
 chapter_number: 7
-video: null
+video:
+  id: "192485528"
+  caption: "Dave McKenzie and Paul Ramirez Jonas, 2016"
 pdf: Making and Being Chapter 7.pdf
 
 materials:

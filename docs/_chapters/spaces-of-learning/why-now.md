@@ -3,7 +3,9 @@ title: "Why Now"
 icon: null
 part_number: 2
 chapter_number: 1
-video: null
+video: 
+  id: "192485777"
+  caption: "Linda Goode Bryant, 2016"
 pdf: Making and Being Chapter 1.pdf
 ---
 

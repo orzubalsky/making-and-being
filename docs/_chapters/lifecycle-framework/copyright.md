@@ -4,8 +4,8 @@ icon: copyright
 part_number: 4
 chapter_number: 17
 video:
-  id: "192485528"
-  caption: "Dave McKenzie and Paul Ramirez Jonas, 2016"
+  id: "192485839"
+  caption: "Art and Feminism, Michael Mandiberg and Jackie Maybe, 2016"
 pdf: Making and Being Chapter 17.pdf
 
 materials:
@@ -24,7 +24,6 @@ materials:
   - title: "Make an Instruction Manual so That Someone Else Could Re-Make Your Project without You (assignment)"
     url: https://drive.google.com/open?id=1oJdmtE4Eo6GYXofgyN9NIAZH9isRVouG
 ---
-{% include vimeo.html videoId="192485839" caption="Art and Feminism, Michael Mandiberg and Jackie Maybe, 2016" %}
 
 The phase of the lifecycle of any project that we refer to as “copyright” addresses how authors’ exclusive legal rights over their projects are used. All original projects that you create are automatically copyrighted according to United States law and cannot be copied, distributed, built upon, or shared unless you allow it by license or assignment. As the Digital Media Law Project explains, “owning a copyright also gives you the exclusive right to prepare ‘derivative works,’ which are the original works in new forms—for example, a translation into another language, or a movie made from a novel, or a revised or expanded edition of an existing work. Someone who does these things without your permission is infringing on your copyright, and the law provides you recourse.” An exception to this occurs under the “fair use” doctrine which we will summarize later in the text. 
 
