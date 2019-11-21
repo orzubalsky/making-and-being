@@ -16,7 +16,7 @@ We wrote this book for those of you who want a holistic art education that inclu
 
 [Read an Excerpt](http://bfamfaphd.com/wp-content/uploads/2017/01/makingandbeing-digitalPDF.pdf)
 
-[Pre-Order](https://store.pioneerworks.org/products/making-and-being)
+[Order](https://pioneerworks.org/publishing/making-and-being-embodiment-collaboration-and-circulation-in-the-visual-arts/){:target="_blank"}
 
 [Listen](http://badatsports.com/?s=bfamfaphd)
 
