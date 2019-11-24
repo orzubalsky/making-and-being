@@ -10,7 +10,9 @@ pdf: Making and Being Chapter 6.pdf
 
 materials:
   - title: Historical Consciousness (worksheet)
+    url: https://docs.google.com/document/d/1NrH5_-kgAp4lrAUB8P0iT7gtw4_8O_CZ4vBca6tuklI/edit?usp=sharing
   - title: Self-Reflection about Rank (worksheet)
+    url: https://docs.google.com/document/d/1WSKcrkenoGn6VaQWhzCStiNfMZphy2XU1xm9KgLlz0U/edit
 ---
 
 We will begin with a focus on the capacity called “coordination,” the ability to “effectively collaborate with others in teams, partnerships, alliances, and remain responsive to evolving conditions.” As we mentioned in the previous chapter, Zara Serabian-Arthur, a member-owner of the filmmaking cooperative Meerkat Media, has committed to the capacity of coordination. As Serabian-Arthur says: 
