@@ -2,7 +2,7 @@
   {% for material in include.materials %}
   <li>
     {% if material.url %}
-    <a href="{{ material.url }}" target="_blank">{{ material.title | markdownify | remove: '<p>' | remove: '</p>'}}</a>
+    <a href="{{ material.url }}" target="_blank" data-use-interstitial>{{ material.title | markdownify | remove: '<p>' | remove: '</p>'}}</a>
     {% else %}
     {{ material.title }}
     {% endif %}
