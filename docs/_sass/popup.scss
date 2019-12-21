@@ -1,0 +1,34 @@
+@import "vars";
+
+$popup_width: 600px;
+$popup_height: 350px;
+
+.popup {
+  position: fixed;
+
+  top: calc(50% - #{$popup_height / 2 + 50px});
+  left: calc(50% - #{$popup_width / 2});
+
+  width: $popup_width;
+  height: $popup_height;
+  z-index: 100;
+  box-sizing: border-box;
+
+  padding: 3rem;
+
+  background-color: $color_background;
+  border: 1px solid $color_body;
+  box-shadow: fade-out($color_body, 0.8) 0 6px 10px 0px
+}
+
+@media only screen and (max-width: $popup_width) {
+  $popup_mobile_v_margin: 10px;
+  $popup_mobile_h_margin: 5px;
+  .popup {
+    width: calc(100% - #{$popup_mobile_h_margin * 2});
+    height: calc(100% - #{$popup_mobile_v_margin * 2});
+    padding: 1em;
+    top: $popup_mobile_v_margin;
+    left: $popup_mobile_h_margin;
+  }
+}
