@@ -1,0 +1,3 @@
+# Book Tour Events
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23fefcf7&amp;ctz=America%2FNew_York&amp;src=dWNydWg2MXZxZGN2dXQ4bWVhbTgwYXUwNGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23000000&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;hl=en" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>

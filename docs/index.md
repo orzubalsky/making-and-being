@@ -12,7 +12,7 @@ We wrote this book for those of you who want a holistic art education that inclu
 {% comment %} Table of contents is generated from chapters {% endcomment %}
 {% include table_of_contents.html %}
 
-[Book Launch October 25](https://www.eventbrite.com/e/making-and-being-a-guide-to-embodiment-collaboration-and-circulation-in-the-visual-arts-tickets-69755603889)
+[Book Tour Events](/calendar)
 
 [Read an Excerpt](http://bfamfaphd.com/wp-content/uploads/2017/01/makingandbeing-digitalPDF.pdf)
 
