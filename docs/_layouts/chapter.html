@@ -18,9 +18,9 @@ layout: page
   {% else %}
     <span class="download-text" target="_blank">
       {%if page.chapter_number >= 1 %}
-        Download the full chapter: <a href="/pdfs/{{ page.pdf }}">{{ page.title }}</a> as a PDF
+        Download the full chapter: <a href="/pdfs/{{ page.pdf }}" data-use-interstitial download>{{ page.title }}</a> as a PDF
       {% else %}
-        Download <a href="/pdfs/{{ page.pdf }}">{{ page.title }}</a> as a PDF
+        Download <a href="/pdfs/{{ page.pdf }}" data-use-interstitial download>{{ page.title }}</a> as a PDF
       {% endif %}
     </span>
   {% endif %}

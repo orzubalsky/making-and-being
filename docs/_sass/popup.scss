@@ -1,0 +1,81 @@
+@import "vars";
+
+$popup_width: 600px;
+$popup_height: 350px;
+
+.popup {
+  // The provides a box to center in
+  position: fixed;
+
+  width: 100%;
+  height: 100%;
+
+  z-index: 100;
+
+  // Centering
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scrim {
+  background-color: fade-out($color_body, 0.99);
+}
+
+.popup-contents {
+
+  position: relative;
+
+  width: $popup_width;
+  height: $popup_height;
+  max-height: 100%;
+  box-sizing: border-box;
+
+  padding: 3rem;
+
+  background-color: $color_background;
+  border: 1px solid $color_body;
+  box-shadow: fade-out($color_body, 0.8) 0 6px 10px 0px
+}
+
+.popup-contents .close-button {
+  color: $color_body;
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  cursor: pointer;
+}
+
+.download-link {
+  padding: 6px;
+  background-color: $color_body;
+  color: $color_background;
+}
+
+
+@media only screen and (max-width: $popup_width) {
+  $popup_mobile_v_margin: 10px;
+  $popup_mobile_h_margin: 5px;
+  .popup-contents {
+    width: calc(100% - #{$popup_mobile_h_margin * 2});
+    height: calc(100% - #{$popup_mobile_v_margin * 2});
+    padding: 1em;
+  }
+}
+
+// states
+.hidden {
+  display: none;
+}
+
+.needs-signup {
+  .download-link, .thanks-message {
+    display: none;
+  }
+}
+
+.download-ready {
+  .signup-link, .signup-message {
+    display: none;
+  }
+}
