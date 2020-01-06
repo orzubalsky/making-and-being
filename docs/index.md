@@ -18,6 +18,8 @@ We wrote this book for those of you who want a holistic art education that inclu
 
 [Order](https://pioneerworks.org/publishing/making-and-being-embodiment-collaboration-and-circulation-in-the-visual-arts/){:target="_blank"}
 
+[Bulk Orders](https://www.artbook.com/9781945711077.html)
+
 [Listen](http://badatsports.com/?s=bfamfaphd)
 
 [Play](http://bfamfaphd.com/cards/)
