@@ -43,7 +43,7 @@ var HAS_SIGNED_UP = 'signed-up';
 
     popupEl.querySelector('.signup-link')
       .addEventListener('click', function() {
-        document.cookie = HAS_SIGNED_UP + '=true';
+        Cookie.set(HAS_SIGNED_UP, true, { expires: 3650 })
         hideSignupShowDownload();
       });
 
