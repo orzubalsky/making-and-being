@@ -2,7 +2,7 @@
 
 {% include vimeo.html videoId="367506701" %}
 
-[_Making and Being_](https://pioneerworks.org/publishing/making-and-being-embodiment-collaboration-and-circulation-in-the-visual-arts/ ) offers a framework for teaching art that emphasizes contemplation, collaboration, and political economy. Authors Susan Jahoda and Caroline Woolard, two visual arts educators and members of the collective BFAMFAPhD*, share ideas and teaching strategies that they have adapted to spaces of learning which range widely, from self-organized workshops for professional artists to Foundations BFA and MFA thesis classes. This hands-on guide includes activities, worksheets, and assignments and is a critical resource for artists and art educators today. [_Making and Being_](https://pioneerworks.org/publishing/making-and-being-embodiment-collaboration-and-circulation-in-the-visual-arts/ ) is a book, a series of videos, a deck of cards, and an interactive website with freely downloadable content. 
+[_Making and Being_](https://www.artbook.com/9781945711077.html ) offers a framework for teaching art that emphasizes contemplation, collaboration, and political economy. Authors Susan Jahoda and Caroline Woolard, two visual arts educators and members of the collective BFAMFAPhD*, share ideas and teaching strategies that they have adapted to spaces of learning which range widely, from self-organized workshops for professional artists to Foundations BFA and MFA thesis classes. This hands-on guide includes activities, worksheets, and assignments and is a critical resource for artists and art educators today. [_Making and Being_](https://www.artbook.com/9781945711077.html ) is a book, a series of videos, a deck of cards, and an interactive website with freely downloadable content. 
 
 *[BFAMFAPhD](http://bfamfaphd.com) is a collective that formed in 2012 to make art, reports, and teaching tools to advocate for cultural equity in the United States. The work of the collective is to bring people together to analyze and reimagine relationships of power in the arts. BFAMFAPhD core members are: Susan Jahoda, Emilio Martínez Poppe, Agnes Szanyi, Emily Tareila, Vicky Virgin, and Caroline Woolard. 
 
@@ -16,7 +16,7 @@ We wrote this book for those of you who want a holistic art education that inclu
 
 [Read an Excerpt](http://bfamfaphd.com/wp-content/uploads/2017/01/makingandbeing-digitalPDF.pdf)
 
-[Order](https://pioneerworks.org/publishing/making-and-being-embodiment-collaboration-and-circulation-in-the-visual-arts/){:target="_blank"}
+[Order](https://www.artbook.com/9781945711077.html){:target="_blank"}
 
 [Bulk Orders](https://www.artbook.com/9781945711077.html)
 
