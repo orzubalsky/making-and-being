@@ -5,7 +5,7 @@ part_number: 4
 chapter_number: 17
 video:
   id: "192485839"
-  caption: "Art and Feminism, Michael Mandiberg and Jackie Maybe, 2016"
+  caption: "Art and Feminism, Michael Mandiberg and Jacqueline Mabey, 2016"
 pdf: Making and Being Chapter 17.pdf
 
 materials:

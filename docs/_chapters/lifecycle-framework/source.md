@@ -3,7 +3,9 @@ title: Source
 icon: source
 part_number: 4
 chapter_number: 10
-video: null
+video:
+  id: "422884154"
+  caption: "Asset Mapping (2019)"
 pdf: Making and Being Chapter 10.pdf
 materials:
   - title: "Future Project: Source (worksheet)"
