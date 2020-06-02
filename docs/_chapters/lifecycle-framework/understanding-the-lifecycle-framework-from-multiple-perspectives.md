@@ -3,7 +3,9 @@ title: Understanding the Lifecycle Framework from Multiple Perspectives
 icon: null
 part_number: 4
 chapter_number: 8
-video: null
+video:
+  id: "422883350"
+  caption: "Making & Being Card Game"
 pdf: Making and Being Chapter 8.pdf
 ---
 

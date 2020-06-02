@@ -122,7 +122,8 @@ footer a {
   color: $color_footer;
 }
 
-footer .footer-links {
+.footer-links {
+  text-align: center;
   list-style: none;
   font-size: 0;
 
