@@ -47,9 +47,7 @@ $popup_height: 350px;
 }
 
 .download-link {
-  padding: 6px;
-  background-color: $color_body;
-  color: $color_background;
+  @extend .button-styled-link;
 }
 
 
