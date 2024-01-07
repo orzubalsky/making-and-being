@@ -2,7 +2,9 @@
 
 {% include vimeo.html videoId="422882497" %}
 
-[Download the full book.](/pdfs/MAB_INTERIOR_FINAL.pdf){:data-use-interstitial="" download=""}
+[Syllabus Support + Teacher Coaching](https://calendly.com/carolinewoolard){:target="_blank"}
+
+[Download the full book](/pdfs/MAB_INTERIOR_FINAL.pdf){:data-use-interstitial="" download=""}
 
 [_Making and Being_](https://www.artbook.com/9781945711077.html )  (2020, distributed by DAP) offers a framework for teaching art that emphasizes contemplation, collaboration, and political economy. Authors Susan Jahoda and Caroline Woolard, two visual arts educators and members of the collective BFAMFAPhD*, share ideas and teaching strategies that they have adapted to spaces of learning which range widely, from self-organized workshops for professional artists to Foundations BFA and MFA thesis classes. This hands-on guide includes activities, worksheets, and assignments and is a critical resource for artists and art educators today. [_Making and Being_](https://www.artbook.com/9781945711077.html ) is a book, a series of videos, a deck of cards, and an interactive website with freely downloadable content (click on links below to download worksheets, activities, and chapters as PDFs and editable Google Docs). 
 
